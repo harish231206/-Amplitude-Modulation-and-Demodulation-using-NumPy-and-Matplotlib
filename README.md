@@ -87,10 +87,12 @@ __TABULATION__:
 ![WhatsApp Image 2025-11-26 at 00 08 35_223a0cf9](https://github.com/user-attachments/assets/fb32c9e7-5238-4210-9716-35332a6d7fb8)
 
  __Output__:
-![exp7_page-0001](https://github.com/user-attachments/assets/1076e32c-f7c9-41b9-88b3-5e120cba5e82)
+![WhatsApp Image 2025-11-26 at 10 42 50_646d71b9](https://github.com/user-attachments/assets/61dc45a3-0fc7-44ef-b9cb-2d9dae99b1a6)
+
 
 
  __Result__:
 
-![WhatsApp Image 2025-11-26 at 00 07 19_cad21776](https://github.com/user-attachments/assets/ab68c18f-00cb-498f-af90-87f01425b920)
+![WhatsApp Image 2025-11-26 at 10 39 49_c40b81eb](https://github.com/user-attachments/assets/f6c522be-e3a8-4d5b-9cab-f4dc24d246b5)
+
 
